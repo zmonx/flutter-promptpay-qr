@@ -1,35 +1,25 @@
-# flutter-promptpay-qr
+# 💸 flutter-promptpay-qr
 
-A modern, fully localized Flutter app for generating PromptPay QR codes, with support for Thai and English languages, runtime language switching, and advanced state management using Bloc.
-
-## Features
-- Generate PromptPay QR codes for phone number or national ID
-- Enter amount (optional) and instantly get a QR code
-- Scan and validate PromptPay slips using camera or image upload
-- Full Thai/English localization (runtime switch)
-- All UI and navigation handled via Bloc events and listeners
-- Modern, beautiful UI with Kanit font for all text
-- Responsive and mobile-friendly design
-
-## Tech Stack
-- Flutter (Dart)
-- Bloc (flutter_bloc, equatable)
-- Google ML Kit (text recognition)
-- qr_flutter, qr_code_scanner
-- Kanit font (all weights/styles)
-
-## How to Run
-1. Install Flutter SDK
-2. Run `flutter pub get`
-3. Run `flutter run`
-
-## Video Coding Walkthrough
-See the full coding and feature walkthrough on YouTube:
-
-[![PromptPay QR Flutter App - Video Walkthrough](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
-
-> Replace `VIDEO_ID_HERE` with your actual YouTube video ID if you have a coding video for this project.
+A modern, bilingual Flutter app to generate and scan **PromptPay QR codes**.  
+Built with **Vibe Coding** vibes — AI-assisted, creatively driven, and cleanly engineered 🇹🇭
 
 ---
 
-**Made with ❤️ for Thai developers and businesses.**
+## ✨ Features
+
+- 📱 Generate PromptPay QR codes using Thai **phone number** or **national ID**
+- 💵 Add specific amount (or leave blank for dynamic payment)
+- 📷 Scan PromptPay QR slips using **camera** or **image upload**
+- 🌐 **Bilingual UI** — Thai 🇹🇭 and English 🇺🇸 with **runtime switching**
+- 🎨 Sleek UI with **Kanit font**, Material 3, and responsive design
+- 🧠 Powered by **Bloc** for scalable, testable state management
+
+---
+
+## 🚀 Quick Start
+
+```bash
+git clone https://github.com/your-username/flutter-promptpay-qr.git
+cd flutter-promptpay-qr
+flutter pub get
+flutter run
