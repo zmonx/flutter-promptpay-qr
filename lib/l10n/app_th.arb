@@ -1,0 +1,22 @@
+{
+  "appTitle": "สร้างคิวอาร์โค้ดพร้อมเพย์",
+  "promptpayIdLabel": "รหัสพร้อมเพย์ (เบอร์โทรหรือเลขบัตรประชาชน)",
+  "promptpayIdHint": "เช่น 08xxxxxxxx",
+  "amountLabel": "จำนวนเงิน (ไม่บังคับ, ฿)",
+  "amountHint": "เช่น 100.00",
+  "generateButton": "สร้างคิวอาร์โค้ด",
+  "validSlip": "สลิปนี้เป็นสลิปพร้อมเพย์ที่ถูกต้อง",
+  "invalidSlip": "สลิปนี้ไม่ใช่สลิปพร้อมเพย์ที่ถูกต้อง",
+  "validSlipTitle": "สลิปพร้อมเพย์ถูกต้อง",
+  "invalidSlipTitle": "สลิปไม่ถูกต้อง",
+  "close": "ปิด",
+  "scanSlipQR": "สแกนคิวอาร์สลิป",
+  "checkSlip": "ตรวจสอบสลิป",
+  "qrScanResult": "ผลการสแกนคิวอาร์",
+  "senderId": "ผู้โอน",
+  "amount": "จำนวนเงิน",
+  "date": "วันที่",
+  "scanAgain": "สแกนอีกครั้ง",
+  "cancel": "ยกเลิก",
+  "browseFile": "เลือกไฟล์"
+}

@@ -1,0 +1,22 @@
+{
+  "appTitle": "PromptPay QR Generator",
+  "promptpayIdLabel": "PromptPay ID (Phone or National ID)",
+  "promptpayIdHint": "Ex. 08xxxxxxxx",
+  "amountLabel": "Amount (optional, ฿)",
+  "amountHint": "Ex. 100.00",
+  "generateButton": "Generate QR Code",
+  "validSlip": "This slip appears to be a real PromptPay slip.",
+  "invalidSlip": "This slip does not appear to be a valid PromptPay slip.",
+  "validSlipTitle": "Valid PromptPay Slip",
+  "invalidSlipTitle": "Invalid Slip",
+  "close": "Close",
+  "scanSlipQR": "Scan Slip QR",
+  "checkSlip": "Check Slip",
+  "qrScanResult": "QR Scan Result",
+  "senderId": "Sender ID",
+  "amount": "Amount",
+  "date": "Date",
+  "scanAgain": "Scan Again",
+  "cancel": "Cancel",
+  "browseFile": "Browse File"
+}
